@@ -1,0 +1,25 @@
+name,Is your character a male?,Is your character wearing glasses?,Does your character have a moustache?,Is your character wearing bunny ears?,Is your character bald?,Does your character have blonde hair?,Does your character have black hair?,Does your character have brown hair?,Does your character have a beard?,Is your character wearing a bandana?,Is your character wearing a band in the hair?,Is your character wearing earrings?,Is your character wearing a tie?,Is your character wearing a necklace?,Does your character have mouth open?
+CHANTAL,False,True,False,False,False,False,False,True,False,False,False,True,False,True,True
+ERIC,True,False,True,True,True,False,False,False,False,False,False,False,False,False,False
+ALEX,True,False,False,False,False,True,False,False,False,False,False,False,True,False,True
+BOB,True,False,False,True,False,True,False,False,True,False,False,False,False,False,False
+PAUL,True,False,True,False,False,False,False,False,False,True,False,False,False,False,False
+FRANK,True,False,True,False,False,False,True,False,False,False,True,True,False,False,True
+ZOE,False,False,False,False,False,False,False,True,False,False,False,True,False,True,True
+JOE,True,True,True,False,True,False,False,False,False,False,False,False,False,False,False
+BUBA,False,False,False,False,False,False,True,False,False,False,True,True,False,False,False
+RITA,False,True,False,False,False,False,False,False,False,False,False,True,True,False,False
+RICK,True,True,True,False,False,True,False,False,False,False,False,False,True,False,False
+ANTOINE,True,False,True,False,False,False,False,True,False,False,False,False,False,False,False
+JOHN,True,True,False,False,False,False,True,False,False,False,False,False,False,False,False
+CHAP,True,True,False,False,True,False,False,False,True,False,False,True,False,False,False
+EVELYN,False,False,False,False,False,False,False,False,False,False,False,True,False,True,False
+LADY,False,True,False,False,False,False,False,True,False,False,False,True,False,False,False
+SAMANTHA,False,False,False,False,False,True,False,False,False,True,False,True,False,True,False
+JENNY,False,True,False,False,False,False,False,False,False,False,False,True,False,False,False
+JAVIER,True,False,True,False,False,False,False,False,False,False,True,False,False,False,True
+EVAN,True,False,True,False,False,True,False,False,False,False,False,False,False,False,False
+MATHIAS,True,True,False,False,False,False,False,False,False,False,False,False,False,False,False
+MICHAEL,True,False,False,False,False,True,False,False,False,False,False,True,True,False,False
+HANK,True,False,False,True,False,False,False,False,False,False,False,False,True,False,True
+VITO,True,False,False,False,True,False,False,False,True,False,False,False,False,False,False
