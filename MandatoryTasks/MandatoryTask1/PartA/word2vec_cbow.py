@@ -31,7 +31,7 @@ for text in texts:
 
 
 
-print("⏳ Training CBOW Word2Vec model...")
+
 
 cbow_model = Word2Vec(
     sentences=sentences,
@@ -61,7 +61,7 @@ try:
     print("\n Word that doesn't match: ['king', 'queen', 'man', 'apple']:")
     print(cbow_model.wv.doesnt_match(['king', 'queen', 'man', 'apple']))
 except KeyError:
-    print("⚠️ Some words not in vocabulary")
+    print(" Some words not in vocabulary")
 
 try:
     print("\n Similarity between 'india' and 'pakistan':")
